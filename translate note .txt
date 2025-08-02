@@ -1,0 +1,13 @@
+翻譯：
+"This document is outdated and preserved only for historical reference."
+這份文件已過時，僅保留作為歷史參考。
+
+"The views expressed are no longer current; this is kept for archival purposes only."
+文件中的觀點已不再適用，僅作為檔案保存。
+
+"This content reflects outdated perspectives and is retained solely for historical context."
+這些內容反映的是過時的觀點，僅為了提供歷史背景而保留。
+
+"This document does not represent our current views or policies and is preserved as a historical record."
+這份文件不再代表我們現在的觀點或政策，僅作為歷史記錄保存。
+        
